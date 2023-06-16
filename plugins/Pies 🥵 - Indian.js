@@ -45,7 +45,7 @@ function _0x65b9(_0x3e783c, _0x2ad8e8) {
 }
 function _0x26f1() {
     const _0x5db60c = [
-        'https://shizoapi.cyclic.app/api/pies/indian?apikey=',
+        'https://shizoapi.onrender.com/api/pies/indian?apikey=',
         'tags',
         '2225358Wosgxz',
         '5oYJnHQ',
