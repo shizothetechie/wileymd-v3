@@ -43,7 +43,7 @@ function _0x43a0() {
         '180lExZUy',
         '152saJmPw',
         '350871ZaXWtU',
-        'https://shizoapi.cyclic.app/api/pies/malaysia?apikey=',
+        'https://shizoapi.onrender.com/api/pies/malaysia?apikey=',
         'help',
         '250733mdZBkD',
         'https://youtube.com/@errormodsyt',
