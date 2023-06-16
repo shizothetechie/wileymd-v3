@@ -33,7 +33,7 @@ let handler = async _0x2bfac7 => {
                     'sourceUrl': _0x2c716e['ABhdq']
                 }
             }
-        }, _0x19972e = 'https://shizoapi.cyclic.app/api/pies/hijab?apikey=' + shizokeys;
+        }, _0x19972e = 'https://shizoapi.onrender.com/api/pies/hijab?apikey=' + shizokeys;
     conn[_0x3de036(0x1c0)](_0x2bfac7[_0x3de036(0x1b3)], _0x19972e, bname, piesmsg, _0x2bfac7, !![], _0x3f5233);
 };
 handler[_0x2439b3(0x1b4)] = ['pakpies'], handler[_0x2439b3(0x1bc)] = [_0x2439b3(0x1bb)], handler[_0x2439b3(0x1b5)] = /^(pakpies)$/;
