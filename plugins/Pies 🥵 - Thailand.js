@@ -70,7 +70,7 @@ function _0x1ea2() {
         'CHMHE',
         'THAILANDIAN\x20PIES\x20🥵💦',
         '@teamerror/Eaileys',
-        'https://shizoapi.cyclic.app/api/pies/thailand?apikey='
+        'https://shizoapi.onrender.com/api/pies/thailand?apikey='
     ];
     _0x1ea2 = function () {
         return _0x224e1a;
