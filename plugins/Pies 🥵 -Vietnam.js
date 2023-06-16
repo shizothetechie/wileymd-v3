@@ -12,7 +12,7 @@ function _0x27e1() {
         '85508GMCYyD',
         'kclNb',
         '51210MXULJR',
-        'https://shizoapi.cyclic.app/api/pies/vietnam?apikey=',
+        'https://shizoapi.onrender.com/api/pies/vietnam?apikey=',
         'vietpies',
         'command',
         'VIETNAMESE\x20PIES\x20🥵💦',
