@@ -65,7 +65,7 @@ let handler = async _0x162393 => {
                     'sourceUrl': _0x14197e(0xa9)
                 }
             }
-        }, _0x41b2ac = 'https://shizoapi.cyclic.app/api/pies/japan?apikey=' + shizokeys;
+        }, _0x41b2ac = 'https://shizoapi.onrender.com/api/pies/japan?apikey=' + shizokeys;
     conn[_0x14197e(0xa6)](_0x162393['chat'], _0x41b2ac, bname, piesmsg, _0x162393, !![], _0x4cec88);
 };
 function _0x5aaf(_0x3ceb83, _0x499edd) {
