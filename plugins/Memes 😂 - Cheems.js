@@ -56,7 +56,7 @@ function _0x4fcb() {
         '14576zJbDCA',
         '1841DsBNsz',
         '8632pqxsny',
-        'https://shizoapi.cyclic.app/api/memes/cheems?apikey=',
+        'https://shizoapi.onrender.com/api/memes/cheems?apikey=',
         'default',
         '5sumZpV',
         'https://i.imgur.com/ch6wUC0.jpg',
