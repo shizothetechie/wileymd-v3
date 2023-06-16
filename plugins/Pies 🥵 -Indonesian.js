@@ -72,7 +72,7 @@ function _0xf5fb() {
         'sendFile',
         '58IvlLIt',
         'help',
-        'https://shizoapi.cyclic.app/api/pies/Indonesia?apikey='
+        'https://shizoapi.onrender.com/api/pies/Indonesia?apikey='
     ];
     _0xf5fb = function () {
         return _0x4ddc4d;
