@@ -1,5 +1,5 @@
 { 
-    "name": "Wiley-MD",
+    "name": "ERROR",
     "version": "3.0.0",
     "description": "Customizable WhatsApp Bot",
     "main": "index.js",
@@ -14,7 +14,7 @@
         "test": "node test.js",
         "test2": "nodemon index.js"
     },
-    "homepage": "https://github.com/shizothetechie/wileymd-v3",
+    "homepage": "https://github.com/shizothetechie/ERROR-v3",
     "author": {
         "name": "TE.Developers"
     },
