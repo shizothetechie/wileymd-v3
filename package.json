@@ -27,7 +27,7 @@
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
-        "@teamerror/Eaileys": "github:shizothetechie/Eaileys",
+        "@teamerror/Eaileys": "npm:@whiskeysockets/baileys@^6.0.1",
         "awesome-phonenumber": "^3.4.0",
         "axios": "^1.1.2",
         "cfonts": "^3.1.1",
